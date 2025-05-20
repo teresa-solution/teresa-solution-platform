@@ -1,10 +1,10 @@
 {
-  "name": "react-template-vite-ts",
+  "name": "teresa-solution-platform",
   "private": true,
   "version": "0.1.0",
   "author": {
-    "name": "Khushal-ag",
-    "email": "starkhush5@gmail.com"
+    "name": "Faisal Yusuf",
+    "email": "yussupcazzanova97@gmail.com"
   },
   "scripts": {
     "dev": "vite",
